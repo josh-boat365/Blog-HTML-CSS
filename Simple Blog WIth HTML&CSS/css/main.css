@@ -1,0 +1,41 @@
+/*font usage
+font-family: 'Montserrat', sans-serif;
+font-family: 'Pacifico', cursive;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.date {
+    color: rgb(116, 190, 233);
+    margin-left: none;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+#head {
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    margin-left: none;
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+.post {
+    width: 1000px;
+    font-family: 'Montserrat', sans-serif;
+    border: solid gray 25px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 35px;
+    padding: 25px;
+}
+
+.quote {
+    border-left: solid gray 5px;
+    padding: 8px;
+    margin-bottom: 25px;
+}
